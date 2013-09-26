@@ -1,0 +1,18 @@
+/*
+  Chunk
+  https://www.theleagueofmoveabletype.com/chunk
+
+  Copyright (c) 2009, Meredith Mandel <meredith@meredithmandel.com>,
+  with Reserved Font Name: "Chunk".
+
+  This Font Software is licensed under the SIL Open Font License, Version 1.1.
+  http://scripts.sil.org/OFL
+*/
+@font-face {
+  font-family: 'Chunk';
+  src: url('Chunkfive-webfont.eot?#iefix') format('embedded-opentype'),
+       url('Chunkfive-webfont.woff') format('woff'),
+       url('Chunkfive-webfont.ttf')  format('truetype'),
+       url('Chunkfive-webfont.svg#webfont90E2uSjN') format('svg');
+  font-weight: 800; /* Ultra Bold */
+}
