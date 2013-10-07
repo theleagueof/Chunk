@@ -10,6 +10,7 @@
 */
 @font-face {
   font-family: 'Chunk';
+  src: url('Chunkfive-webfont.eot'),
   src: url('Chunkfive-webfont.eot?#iefix') format('embedded-opentype'),
        url('Chunkfive-webfont.woff') format('woff'),
        url('Chunkfive-webfont.ttf')  format('truetype'),
